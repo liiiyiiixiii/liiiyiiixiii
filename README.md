@@ -128,61 +128,55 @@ focus: AI Tools · Web Apps · Games
 
 **把游戏创作中的重复工作，沉淀为可复用的 AI Skills。**
 
-源于《高墙之外》的开发实践，将内容理解、美术方向、场景生成、角色生成与 NPC 对话整理为模块化创作工具。场景与角色生成已可用，内容理解、美术方向与对话模块处于 Beta 阶段。
+<p align="center">
+  <a href="https://github.com/liiiyiiixiii/Create-World-skills">
+    <img src="./assets/projects/create-world-skills.gif" width="320" alt="Create-World-skills 角色生成示例：像素角色的四方向动作动画" />
+  </a>
+  <br />
+  <sub>Character Generation · 四方向像素角色动作预览</sub>
+</p>
+
+从《高墙之外》的开发实践中提炼创作工作流，涵盖内容理解、美术方向、场景、角色与 NPC 对话。场景与角色生成已可用，内容理解、美术方向与对话模块处于 Beta 阶段。
 
 `AI Skills` · `Creative Workflows` · `2D Game Production`
 
 [查看项目 →](https://github.com/liiiyiiixiii/Create-World-skills)
 
+---
+
 ### 🎮 [Beyond The Walls · 高墙之外](https://github.com/SSxs-wym/Beyond-The-Walls-)
 
-**让玩家走进故事，通过探索、选择与行动寻找高墙之外的自由。**
+**走进故事，通过探索、选择与行动寻找高墙之外的自由。**
 
-一款 2D 像素剧情冒险游戏，围绕场景探索、NPC 互动、道具与任务系统展开，通过风险事件与多结局设计构建可交互的叙事体验。支持桌面与移动端浏览器。
+<p align="center">
+  <a href="https://www.liyixiong.cn/game/">
+    <img src="./assets/projects/beyond-the-walls.png" width="800" alt="高墙之外：2D 像素剧情冒险游戏画面，点击进入在线试玩" />
+  </a>
+</p>
+
+以场景探索、NPC 互动、道具与任务系统构建可交互的越狱叙事，包含风险事件与多结局设计，支持桌面与移动端浏览器。
 
 `HTML5` · `CSS3` · `JavaScript` · `Canvas 2D`
 
 [在线试玩 →](https://www.liyixiong.cn/game/) · [查看项目 →](https://github.com/SSxs-wym/Beyond-The-Walls-)
 
+---
+
 ### 📝 [Weeknote](https://github.com/liiiyiiixiii/weeknote)
 
 **随手记录，逐步整理，让一周的工作沉淀为清晰的表达。**
 
-自托管的 AI 周报应用，将零散记录与多格式附件整理为工作汇报和技术总结。支持模板归纳、对话修改、每周多版本管理与 Word 导出，并可选接入语音录入。
+<p align="center">
+  <a href="https://github.com/liiiyiiixiii/weeknote">
+    <img src="./assets/projects/weeknote.jpg" width="800" alt="Weeknote 应用界面：AI 周报整理与编辑工作区" />
+  </a>
+</p>
+
+自托管的 AI 周报应用，将零散记录与多格式附件整理为工作汇报和技术总结，支持模板归纳、对话修改、多版本管理与 Word 导出。
 
 `Python` · `FastAPI` · `SQLite` · `DeepSeek` · `DOCX`
 
 [查看项目 →](https://github.com/liiiyiiixiii/weeknote)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liiiyiiixiii&amp;theme=github_dark" width="100%" alt="yixiongli 的 GitHub 公开活动概览" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liiiyiiixiii&amp;theme=github_dark" width="48%" alt="按公开仓库数量统计的语言分布" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liiiyiiixiii&amp;theme=github_dark" width="48%" alt="yixiongli 的 GitHub 统计" />
-
-</div>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<!-- 上传后由 .github/workflows/snake.yml 自动生成真实贡献动画。 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liiiyiiixiii/liiiyiiixiii/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liiiyiiixiii/liiiyiiixiii/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/liiiyiiixiii/liiiyiiixiii/output/github-contribution-grid-snake.svg" width="100%" alt="yixiongli 的贡献蛇动画，在主页仓库首次运行工作流后显示" />
-</picture>
-
-</div>
 
 ---
 

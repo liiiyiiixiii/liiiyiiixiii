@@ -26,3 +26,11 @@ Unavailable icons use original text tiles. Brand names belong to their respectiv
 - go: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/go/go-original.svg
 - postgresql: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg
 - numpy: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/numpy/numpy-original.svg
+
+## Project showcase
+
+These are existing project presentation assets, reused here to showcase the user's work. Their original rights and license terms remain unchanged; this profile does not grant additional rights.
+
+- `projects/create-world-skills.gif`: https://github.com/liiiyiiixiii/Create-World-skills/blob/main/skills/character-generation/assets/character-generation-preview.gif
+- `projects/beyond-the-walls.png`: https://github.com/SSxs-wym/Beyond-The-Walls-/blob/main/README/docs/readme/cover.png
+- `projects/weeknote.jpg`: https://github.com/liiiyiiixiii/weeknote/blob/main/docs/images/overview.jpg
