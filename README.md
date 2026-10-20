@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-# EasonLi
+# Eason Li
 
 #### AI Product Designer · Agent Builder · CS @ TYUT
 
