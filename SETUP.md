@@ -15,7 +15,7 @@
 - 同款图标位于 `assets/reference-tech/`，许可及来源见 `assets/CREDITS.md`。原有图标、项目截图和 GIF 保留。
 - 动态打字使用 readme-typing-svg.demolab.com，徽章使用 shields.io。
 - 仓库与语言卡片使用 github-readme-stats.vercel.app；活动图使用 github-profile-summary-cards.vercel.app。服务故障时先检查实际响应，保留可访问的普通项目链接，不伪造统计数据。
-- `.github/workflows/snake.yml` 每 12 小时生成浅深色贡献蛇，支持 workflow_dispatch。仅使用内置 GITHUB_TOKEN 与 contents: write 权限，发布至 output 分支。首次发布后手动运行并确认两套 SVG 可用。
+- `.github/workflows/snake.yml` 每 12 小时生成浅深色贡献蛇，支持 workflow_dispatch；main 上更新工作流文件时也自动运行。仅使用内置 GITHUB_TOKEN 与 contents: write 权限，发布至 output 分支。首次发布后确认运行成功且两套 SVG 可用。
 
 ## 更新与验收
 

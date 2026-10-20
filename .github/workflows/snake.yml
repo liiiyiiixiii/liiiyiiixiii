@@ -1,6 +1,10 @@
 name: Generate contribution snake
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
