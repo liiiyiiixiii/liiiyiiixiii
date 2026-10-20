@@ -6,9 +6,9 @@
 
 按参考主页 https://github.com/Leizhidong-creator 的顺序组织：居中标题、动态打字、联系徽章、理念、个人介绍与 YAML 双栏、Building / Learning 双栏、四组技术图标、成果表格、项目卡片、贡献蛇和联系页尾。配色以青色与橙色为主。按用户要求移除 GitHub Activity 板块，包括活动概览和语言统计。
 
-个人背景和经历依据 2026-10-20 的最新简历及公开项目说明。获奖与个人职责沿用简历，不代表额外外部审计。CreateWorldAgent 及对应 Harness 暂不展示。Create-World-skills 不应描述为已完成的自动化流水线。不要发布简历手机号、微信、待补字段或求职排班信息。
+个人背景和经历依据 2026-10-20 的最新简历及公开项目说明。获奖与个人职责沿用简历，不代表额外外部审计。按用户最新要求，Create World Harness 作为示例项目展示，项目描述依据其公开仓库；不将新版 CreateWorldAgent 的全部能力等同于该仓库。Create-World-skills 不应描述为已完成的自动化流水线。不要发布简历手机号、微信、待补字段或求职排班信息。
 
-联系入口使用 https://liyixiong.cn/profile 、liyixiong2022@163.com 和当前 GitHub 账号。精选仓库为 Create-World-skills、SSxs-wym/Beyond-The-Walls- 和 weeknote；高墙之外试玩地址为 https://www.liyixiong.cn/game/ 。
+联系入口使用 https://liyixiong.cn/profile 、liyixiong2022@163.com 和当前 GitHub 账号。精选仓库按顺序为 create-world-harness、Create-World-skills、SSxs-wym/Beyond-The-Walls- 和 weeknote。Create World Harness 的体验地址由用户指定为 https://createworld.games ，在成果表与精选项目区提供入口；高墙之外试玩地址为 https://www.liyixiong.cn/game/ 。2026-10-20 配置链接时，本地访问 createworld.games 遇到 SSL 连接错误，尚未确认网站可访问性或验证在线体验。
 
 ## 素材与动态服务
 
