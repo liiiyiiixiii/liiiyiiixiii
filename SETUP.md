@@ -23,5 +23,6 @@
 
 窄屏兼容：双栏和成果表的短标题使用不换行空格，技术图标单元格保持单行；超出手机可视宽度时使用 GitHub 原生表格横向滚动，避免文字被压成逐字排列。桌面保留参考页布局。
 
+Building / Learning 按用户要求直接采用参考主页对应板块的文案。表格使用 `width="100%"`，左栏 `width="50%"`、右栏 `width="500"`，在 GitHub 的表格样式下撑满正文宽度并保持桌面双栏等宽；仅写两栏 `50%` 会随内容收缩，导致右侧留白。
 
 技术栈补充：AI & Backend 单行展示 FastAPI、Node.js、Express、OpenAI SDK / API、DeepSeek API、LangChain；Data & Delivery 增加 Playwright、Vitest。新增项依据公开仓库的依赖与使用记录，不增加熟练度或线上验收声明。素材与依据见 assets/CREDITS.md。

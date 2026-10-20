@@ -69,25 +69,25 @@ focus: AI Products · Creative Tools · Education
 
 ## 🔭 Currently Building & Learning
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🛠️&nbsp;Building
 
-- 将剧情游戏制作中的方法沉淀为 **可复用的创作 Skills**
-- 围绕 **内容整理与创意表达**打磨 AI 应用交互
-- 结合 **用户反馈**改进产品流程与体验入口
+- 将 **AI 应用原型**推进为可部署、可交付的真实产品
+- 探索 **Agent** 在企业工作流与生产线中的提效路径
+- 构建可靠、可解释、可验证的 AI 决策工作流
 
 </td>
-<td width="50%" valign="top">
+<td width="500" valign="top">
 
 ### 🌱&nbsp;Learning&nbsp;&amp;&nbsp;Exploring
 
-- **Agent 工作流编排**与人机协作边界
-- **Context Engineering** 与工具调用
-- AI 应用的评测、失败恢复与质量验证
-- 用户研究、产品实验与反馈驱动的迭代
+- **Agent Orchestration** 与复杂工具调用
+- **Context Engineering** 与 RAG 系统设计
+- AI 服务可靠性、评测与降级机制
+- 企业内网部署与端到端工程交付
 
 </td>
 </tr>
