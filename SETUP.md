@@ -1,24 +1,22 @@
 # 主页 README 维护说明
 
-展示名为 `yixiongli`，GitHub 用户名为 `liiiyiiixiii`。主页仓库为 `liiiyiiixiii/liiiyiiixiii`，公开，默认分支为 `main`。
+主页仓库为 `liiiyiiixiii/liiiyiiixiii`，公开，默认分支为 `main`。标题为 Yixiong Li，正文姓名为力一雄。账号侧栏资料与置顶仓库由用户独立维护。
 
-## 内容结构
+## 内容与排版
 
-正文仅展示姓名与定位、学校与专业、三个作品和一组联系入口，统一左对齐，以中文为主。
+按参考主页 https://github.com/Leizhidong-creator 的顺序组织：居中标题、动态打字、联系徽章、理念、个人介绍与 YAML 双栏、Building / Learning 双栏、四组技术图标、成果表格、项目卡片、活动统计、贡献蛇和联系页尾。配色以青色与橙色为主。
 
-每项作品保留名称、一句介绍、操作链接和一个默认收起的“预览”。作品后是“更多背景”和“技术栈”，全页共五处独立折叠区。使用原生 `<details>` / `<summary>`，不要添加 `open` 属性。
+个人背景和经历依据 2026-10-20 的最新简历及公开项目说明。获奖与个人职责沿用简历，不代表额外外部审计。CreateWorldAgent 及对应 Harness 暂不展示。Create-World-skills 不应描述为已完成的自动化流水线。不要发布简历手机号、微信、待补字段或求职排班信息。
 
-- `README.md`：主页文案与折叠结构。
-- `assets/projects/`：现有三个项目图片与 GIF，更新时保留路径或同步修改 README。
-- `assets/CREDITS.md`：素材来源与说明。
-- `assets/tech/`：历史图标素材，当前主页不再引用。
+联系入口使用 https://liyixiong.cn/profile 、liyixiong2022@163.com 和当前 GitHub 账号。精选仓库为 Create-World-skills、SSxs-wym/Beyond-The-Walls- 和 weeknote；高墙之外试玩地址为 https://www.liyixiong.cn/game/ 。
 
-技术栈保留四组、全部 23 项技术，以纯文字呈现。项目介绍不包含个人分工、未经确认的奖项或熟练度声明。
+## 素材与动态服务
+
+- 同款图标位于 `assets/reference-tech/`，许可及来源见 `assets/CREDITS.md`。原有图标、项目截图和 GIF 保留。
+- 动态打字使用 readme-typing-svg.demolab.com，徽章使用 shields.io。
+- 仓库与语言卡片使用 github-readme-stats.vercel.app；活动图使用 github-profile-summary-cards.vercel.app。服务故障时先检查实际响应，保留可访问的普通项目链接，不伪造统计数据。
+- `.github/workflows/snake.yml` 每 12 小时生成浅深色贡献蛇，支持 workflow_dispatch。仅使用内置 GITHUB_TOKEN 与 contents: write 权限，发布至 output 分支。首次发布后手动运行并确认两套 SVG 可用。
 
 ## 更新与验收
 
-推送到 `main` 后，GitHub 个人主页自动展示最新 README。
-
-检查五处折叠区默认收起、可独立展开，图片与 GIF 完整，仓库、试玩、个人网站和邮箱链接正确。在桌面及手机、浅色及深色模式下检查排版和横向溢出。
-
-联系方式仅出现在页尾一次。不要恢复动画页头、徽章、技术图标墙、双栏表格、YAML 背景块、重复项目介绍、统计卡片或贡献蛇工作流。主页不依赖第三方卡片或动画服务。
+修改前记录 main 提交并保留备份。提交后检查真实 GitHub 主页在桌面、手机及浅深色模式下的渲染，核对标题、双栏、表格、图标、卡片、联系链接和动态图片的实际加载结果。检查所有图片路径和账号参数，避免残留参考作者资料。外部卡片故障必须如实记录，不能将 HTTP 成功或存在链接等同于正常图片。

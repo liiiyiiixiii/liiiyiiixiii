@@ -34,3 +34,9 @@ These are existing project presentation assets, reused here to showcase the user
 - `projects/create-world-skills.gif`: https://github.com/liiiyiiixiii/Create-World-skills/blob/main/skills/character-generation/assets/character-generation-preview.gif
 - `projects/beyond-the-walls.png`: https://github.com/SSxs-wym/Beyond-The-Walls-/blob/main/README/docs/readme/cover.png
 - `projects/weeknote.jpg`: https://github.com/liiiyiiixiii/weeknote/blob/main/docs/images/overview.jpg
+
+## Profile redesign
+
+Layout reference: https://github.com/Leizhidong-creator/Leizhidong-creator . Personal text and project entries were rewritten for Yixiong Li.
+
+The matching technology icons in `reference-tech/` are sourced from the reference profile's `assets/tech/` directory. The accompanying Skill Icons MIT license is retained in `reference-tech/LICENSE-skill-icons.txt`. Existing Devicon and project assets remain unchanged. Brand names belong to their respective owners.
