@@ -4,7 +4,7 @@
 
 ## 内容与排版
 
-按参考主页 https://github.com/Leizhidong-creator 的顺序组织：居中标题、动态打字、联系徽章、理念、个人介绍与 YAML 双栏、Building / Learning 双栏、四组技术图标、成果表格、项目卡片、活动统计、贡献蛇和联系页尾。配色以青色与橙色为主。
+按参考主页 https://github.com/Leizhidong-creator 的顺序组织：居中标题、动态打字、联系徽章、理念、个人介绍与 YAML 双栏、Building / Learning 双栏、四组技术图标、成果表格、项目卡片、贡献蛇和联系页尾。配色以青色与橙色为主。按用户要求移除 GitHub Activity 板块，包括活动概览和语言统计。
 
 个人背景和经历依据 2026-10-20 的最新简历及公开项目说明。获奖与个人职责沿用简历，不代表额外外部审计。CreateWorldAgent 及对应 Harness 暂不展示。Create-World-skills 不应描述为已完成的自动化流水线。不要发布简历手机号、微信、待补字段或求职排班信息。
 
@@ -14,7 +14,7 @@
 
 - 同款图标位于 `assets/reference-tech/`，许可及来源见 `assets/CREDITS.md`。原有图标、项目截图和 GIF 保留。
 - 动态打字使用 readme-typing-svg.demolab.com，徽章使用 shields.io。
-- 仓库与语言卡片使用 github-readme-stats.vercel.app；活动图使用 github-profile-summary-cards.vercel.app。服务故障时先检查实际响应，保留可访问的普通项目链接，不伪造统计数据。
+- 仓库卡片使用 github-readme-stats.vercel.app。服务故障时先检查实际响应，保留可访问的普通项目链接，不伪造统计数据。不再展示活动概览或语言统计卡片。
 - `.github/workflows/snake.yml` 每 12 小时生成浅深色贡献蛇，支持 workflow_dispatch；main 上更新工作流文件时也自动运行。仅使用内置 GITHUB_TOKEN 与 contents: write 权限，发布至 output 分支。首次发布后确认运行成功且两套 SVG 可用。
 
 ## 更新与验收

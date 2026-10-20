@@ -183,20 +183,6 @@ focus: AI Products · Creative Tools · Education
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liiiyiiixiii&amp;theme=github_dark" width="100%" alt="Yixiong Li GitHub activity overview" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liiiyiiixiii&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE" height="180" alt="Most used languages across public repositories" />
-
-</div>
-
----
-
 ## 🐍 Contribution Journey
 
 <div align="center">
