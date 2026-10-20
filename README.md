@@ -33,7 +33,7 @@
 <tr>
 <td width="60%" valign="top">
 
-## 👋 Who I Am
+## 👋&nbsp;Who&nbsp;I&nbsp;Am
 
 我是 **力一雄（Yixiong Li）**，就读于太原理工大学计算机科学与技术专业，关注 **AI 产品设计、Agent 工作流与全栈开发**。
 
@@ -44,7 +44,7 @@
 </td>
 <td width="40%" valign="top">
 
-## ⚡ At a Glance
+## ⚡&nbsp;At&nbsp;a&nbsp;Glance
 
 ```yaml
 name: Yixiong Li
@@ -73,7 +73,7 @@ focus: AI Products · Creative Tools · Education
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Building
+### 🛠️&nbsp;Building
 
 - 将剧情游戏制作中的方法沉淀为 **可复用的创作 Skills**
 - 围绕 **内容整理与创意表达**打磨 AI 应用交互
@@ -82,7 +82,7 @@ focus: AI Products · Creative Tools · Education
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Learning & Exploring
+### 🌱&nbsp;Learning&nbsp;&amp;&nbsp;Exploring
 
 - **Agent 工作流编排**与人机协作边界
 - **Context Engineering** 与工具调用
@@ -112,7 +112,7 @@ focus: AI Products · Creative Tools · Education
 <table align="center">
 <tr>
 <td align="right" width="190"><b>🧠 Languages & Core</b></td>
-<td>
+<td nowrap width="500">
   <img src="./assets/reference-tech/python.svg" width="48" height="48" alt="Python" title="Python" />
   <img src="./assets/reference-tech/golang.svg" width="48" height="48" alt="Go" title="Go" />
   <img src="./assets/reference-tech/typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript" />
@@ -123,7 +123,7 @@ focus: AI Products · Creative Tools · Education
 </tr>
 <tr>
 <td align="right"><b>🤖 AI & Backend</b></td>
-<td>
+<td nowrap width="500">
   <img src="./assets/reference-tech/fastapi.svg" width="48" height="48" alt="FastAPI" title="FastAPI" />
   <img src="./assets/reference-tech/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain" />
   <img src="./assets/reference-tech/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy" />
@@ -131,7 +131,7 @@ focus: AI Products · Creative Tools · Education
 </tr>
 <tr>
 <td align="right"><b>🎨 Frontend & Creative</b></td>
-<td>
+<td nowrap width="500">
   <img src="./assets/reference-tech/react.svg" width="48" height="48" alt="React" title="React" />
   <img src="./assets/reference-tech/nextjs.svg" width="48" height="48" alt="Next.js" title="Next.js" />
   <img src="./assets/reference-tech/vue.svg" width="48" height="48" alt="Vue" title="Vue" />
@@ -144,7 +144,7 @@ focus: AI Products · Creative Tools · Education
 </tr>
 <tr>
 <td align="right"><b>📦 Data & Delivery</b></td>
-<td>
+<td nowrap width="500">
   <img src="./assets/reference-tech/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
   <img src="./assets/reference-tech/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL" />
   <img src="./assets/reference-tech/sqlite.svg" width="48" height="48" alt="SQLite" title="SQLite" />
@@ -159,7 +159,7 @@ focus: AI Products · Creative Tools · Education
 
 ## 🏆 Selected Work & Achievements
 
-| 🔗 Repository / Project | 🏅 Achievement | 🛠️ My Contribution |
+| 🔗&nbsp;Repository&nbsp;/&nbsp;Project | 🏅&nbsp;Achievement | 🛠️&nbsp;My&nbsp;Contribution |
 |:---|:---:|:---|
 | **[高墙之外](https://github.com/SSxs-wym/Beyond-The-Walls-)** | 抖音创变者计划黑客松联赛<br>**国赛二等奖** | **核心内容策划与主流程开发**：将线性叙事改编为可交互剧情，负责任务推进、NPC 交互、检查点与存档；结合十余名体验玩家的反馈，迭代引导、地图与主线体验。 |
 | **[Create-World-skills](https://github.com/liiiyiiixiii/Create-World-skills)** | **可复用创作 Skills**<br>角色与场景生成模块可用 | 将游戏制作中的内容理解、改编与素材生产方法整理为模块化 Skills。内容理解、美术方向与对白模块处于 Beta，尚未形成完整自动化流水线。 |
