@@ -165,8 +165,6 @@ focus: AI Products · Creative Tools · Education
 | **[高墙之外](https://github.com/SSxs-wym/Beyond-The-Walls-)** | 抖音创变者计划黑客松联赛<br>**国赛二等奖** | **核心内容策划与主流程开发**：将线性叙事改编为可交互剧情，负责任务推进、NPC 交互、检查点与存档；结合十余名体验玩家的反馈，迭代引导、地图与主线体验。 |
 | **[Create-World-skills](https://github.com/liiiyiiixiii/Create-World-skills)** | **可复用创作 Skills**<br>角色与场景生成模块可用 | 将游戏制作中的内容理解、改编与素材生产方法整理为模块化 Skills。内容理解、美术方向与对白模块处于 Beta，尚未形成完整自动化流水线。 |
 | **[Weeknote](https://github.com/liiiyiiixiii/weeknote)** | **AI 周报应用**<br>可编辑 · 可导出 Word | 围绕零散记录整理周报的需求，提供附件输入、模板组织、对话修改与 Word 导出，支持用户在生成初稿后继续核对和完善。 |
-| **Math AI Tutor** | **AI 数学辅导模块已上线** | **产品设计与全栈开发**：分析真实用户反馈，设计宠物学习伙伴、分层提示与引导追问，完成前端交互、后端接口及大模型 API 集成。 |
-| **Long-term AI** | **AI 安全产品体系与体验入口** | **产品与商业分析**：盘点科研资产、梳理官网产品体系，接入体验入口与行为埋点，并参与页面排序 A/B 实验，为展示方案调整提供依据。 |
 
 ---
 
