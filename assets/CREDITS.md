@@ -37,6 +37,6 @@ These are existing project presentation assets, reused here to showcase the user
 
 ## Profile redesign
 
-Layout reference: https://github.com/Leizhidong-creator/Leizhidong-creator . Personal text and project entries were rewritten for Yixiong Li.
+Layout reference: https://github.com/Leizhidong-creator/Leizhidong-creator . Personal text and project entries were rewritten for EasonLi.
 
 The matching technology icons in `reference-tech/` are sourced from the reference profile's `assets/tech/` directory. The accompanying Skill Icons MIT license is retained in `reference-tech/LICENSE-skill-icons.txt`. Existing Devicon and project assets remain unchanged. Brand names belong to their respective owners.

@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-# Yixiong Li
+# EasonLi
 
 #### AI Product Designer · Agent Builder · CS @ TYUT
 
@@ -35,7 +35,7 @@
 
 ## 👋&nbsp;Who&nbsp;I&nbsp;Am
 
-我是 **力一雄（Yixiong Li）**，就读于太原理工大学计算机科学与技术专业，关注 **AI 产品设计、Agent 工作流与全栈开发**。
+我是 **力一雄（EasonLi）**，就读于太原理工大学计算机科学与技术专业，关注 **AI 产品设计、Agent 工作流与全栈开发**。
 
 我喜欢从真实需求出发，把产品想法做成可以体验的应用。曾参与 AI 数学辅导模块的设计与上线，也在剧情游戏制作中，将内容改编和素材生产的方法沉淀为可复用的创作 Skills。
 
@@ -47,7 +47,7 @@
 ## ⚡&nbsp;At&nbsp;a&nbsp;Glance
 
 ```yaml
-name: Yixiong Li
+name: EasonLi
 role: AI Product Designer · Agent Builder
 school: 太原理工大学（211）
 major: 计算机科学与技术
@@ -190,7 +190,7 @@ focus: AI Products · Creative Tools · Education
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liiiyiiixiii/liiiyiiixiii/output/github-contribution-grid-snake-dark.svg?v=20261020" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liiiyiiixiii/liiiyiiixiii/output/github-contribution-grid-snake.svg?v=20261020" />
-  <img alt="Yixiong Li's contribution graph animated as a cyan and orange snake" src="https://raw.githubusercontent.com/liiiyiiixiii/liiiyiiixiii/output/github-contribution-grid-snake.svg?v=20261020" width="100%" />
+  <img alt="EasonLi's contribution graph animated as a cyan and orange snake" src="https://raw.githubusercontent.com/liiiyiiixiii/liiiyiiixiii/output/github-contribution-grid-snake.svg?v=20261020" width="100%" />
 </picture>
 
 </div>

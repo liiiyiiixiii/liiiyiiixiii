@@ -1,6 +1,6 @@
 # 主页 README 维护说明
 
-主页仓库为 `liiiyiiixiii/liiiyiiixiii`，公开，默认分支为 `main`。标题为 Yixiong Li，正文姓名为力一雄。账号侧栏资料与置顶仓库由用户独立维护。
+主页仓库为 `liiiyiiixiii/liiiyiiixiii`，公开，默认分支为 `main`。标题为 EasonLi，正文姓名为力一雄。账号侧栏资料与置顶仓库由用户独立维护。
 
 ## 内容与排版
 
