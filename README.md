@@ -125,7 +125,15 @@ focus: AI Products · Creative Tools · Education
 <td align="right"><b>🤖 AI & Backend</b></td>
 <td nowrap width="500">
   <img src="./assets/reference-tech/fastapi.svg" width="48" height="48" alt="FastAPI" title="FastAPI" />
+  <img src="./assets/reference-tech/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js" />
+  <img src="./assets/reference-tech/express.svg" width="48" height="48" alt="Express" title="Express" />
+  <img src="./assets/reference-tech/pydantic.svg" width="48" height="48" alt="Pydantic" title="Pydantic" />
+  <img src="./assets/reference-tech/uvicorn.svg" width="48" height="48" alt="Uvicorn" title="Uvicorn" />
+  <br />
+  <img src="./assets/reference-tech/openai.svg" width="48" height="48" alt="OpenAI SDK / API" title="OpenAI SDK / API" />
+  <img src="./assets/reference-tech/deepseek.svg" width="48" height="48" alt="DeepSeek API" title="DeepSeek API" />
   <img src="./assets/reference-tech/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain" />
+  <img src="./assets/reference-tech/zod.svg" width="48" height="48" alt="Zod" title="Zod" />
   <img src="./assets/reference-tech/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy" />
 </td>
 </tr>
@@ -151,6 +159,8 @@ focus: AI Products · Creative Tools · Education
   <img src="./assets/reference-tech/minio.svg" width="48" height="48" alt="MinIO" title="MinIO" />
   <img src="./assets/reference-tech/docker.svg" width="48" height="48" alt="Docker" title="Docker" />
   <img src="./assets/reference-tech/githubactions.svg" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="./assets/reference-tech/playwright.svg" width="48" height="48" alt="Playwright" title="Playwright" />
+  <img src="./assets/reference-tech/vitest.svg" width="48" height="48" alt="Vitest" title="Vitest" />
 </td>
 </tr>
 </table>

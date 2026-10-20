@@ -40,3 +40,17 @@ These are existing project presentation assets, reused here to showcase the user
 Layout reference: https://github.com/Leizhidong-creator/Leizhidong-creator . Personal text and project entries were rewritten for EasonLi.
 
 The matching technology icons in `reference-tech/` are sourced from the reference profile's `assets/tech/` directory. The accompanying Skill Icons MIT license is retained in `reference-tech/LICENSE-skill-icons.txt`. Existing Devicon and project assets remain unchanged. Brand names belong to their respective owners.
+
+## Technology additions
+
+- `reference-tech/nodejs.svg`, `express.svg`, `vitest.svg`: Skill Icons, https://github.com/tandpfun/skill-icons/tree/main/icons (NodeJS-Dark, ExpressJS-Dark, Vitest-Dark). MIT license retained in `reference-tech/LICENSE-skill-icons.txt`.
+- `reference-tech/playwright.svg`: Devicon v2.17.0, https://github.com/devicons/devicon/blob/v2.17.0/icons/playwright/playwright-original.svg , placed on a matching rounded tile. MIT license retained in `DEVICON-LICENSE`.
+- `reference-tech/openai.svg`, `deepseek.svg`, `pydantic.svg`, `uvicorn.svg`, `zod.svg`: original text tiles, not official brand logos.
+
+Additions reflect public project dependencies and usage, without implying a proficiency level or completed online model validation:
+- https://github.com/liiiyiiixiii/create-world-harness/blob/main/package.json
+- https://github.com/liiiyiiixiii/create-world-harness/blob/main/server/index.ts
+- https://github.com/liiiyiiixiii/create-world-harness/blob/main/server/adapters/images.ts
+- https://github.com/liiiyiiixiii/create-world-harness/blob/main/shared/domain.ts
+- https://github.com/liiiyiiixiii/weeknote/blob/main/backend/requirements.txt
+- https://github.com/liiiyiiixiii/weeknote/blob/main/backend/app/agent.py

@@ -22,3 +22,6 @@
 修改前记录 main 提交并保留备份。提交后检查真实 GitHub 主页在桌面、手机及浅深色模式下的渲染，核对标题、双栏、表格、图标、卡片、联系链接和动态图片的实际加载结果。检查所有图片路径和账号参数，避免残留参考作者资料。外部卡片故障必须如实记录，不能将 HTTP 成功或存在链接等同于正常图片。
 
 窄屏兼容：双栏和成果表的短标题使用不换行空格，技术图标单元格保持单行；超出手机可视宽度时使用 GitHub 原生表格横向滚动，避免文字被压成逐字排列。桌面保留参考页布局。
+
+
+技术栈补充：AI & Backend 分两行展示 FastAPI、Node.js、Express、Pydantic、Uvicorn，以及 OpenAI SDK / API、DeepSeek API、LangChain、Zod、NumPy；Data & Delivery 增加 Playwright、Vitest。新增项依据公开仓库的依赖与使用记录，不增加熟练度或线上验收声明。素材与依据见 assets/CREDITS.md。

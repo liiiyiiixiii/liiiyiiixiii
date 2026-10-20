@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="DeepSeek API">
+<title>DeepSeek API</title>
+<rect width="256" height="256" rx="60" fill="#242938"/>
+<rect x="36" y="40" width="60" height="10" rx="5" fill="#4D6BFE"/>
+<text x="128" y="136" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" fill="#F4F7FC">DeepSeek</text>
+<text x="128" y="181" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="29" fill="#4D6BFE">API</text>
+</svg>
