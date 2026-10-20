@@ -24,4 +24,4 @@
 窄屏兼容：双栏和成果表的短标题使用不换行空格，技术图标单元格保持单行；超出手机可视宽度时使用 GitHub 原生表格横向滚动，避免文字被压成逐字排列。桌面保留参考页布局。
 
 
-技术栈补充：AI & Backend 分两行展示 FastAPI、Node.js、Express、Pydantic、Uvicorn，以及 OpenAI SDK / API、DeepSeek API、LangChain、Zod、NumPy；Data & Delivery 增加 Playwright、Vitest。新增项依据公开仓库的依赖与使用记录，不增加熟练度或线上验收声明。素材与依据见 assets/CREDITS.md。
+技术栈补充：AI & Backend 单行展示 FastAPI、Node.js、Express、OpenAI SDK / API、DeepSeek API、LangChain；Data & Delivery 增加 Playwright、Vitest。新增项依据公开仓库的依赖与使用记录，不增加熟练度或线上验收声明。素材与依据见 assets/CREDITS.md。
