@@ -182,10 +182,6 @@ focus: AI Products · Creative Tools · Education
 [![Beyond the Walls](https://github-readme-stats.vercel.app/api/pin/?username=SSxs-wym&repo=Beyond-The-Walls-&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/SSxs-wym/Beyond-The-Walls-)
 [![Weeknote](https://github-readme-stats.vercel.app/api/pin/?username=liiiyiiixiii&repo=weeknote&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/liiiyiiixiii/weeknote)
 
-**[在线体验 Create World Harness → createworld.games](https://createworld.games)**
-
-[Create World Harness](https://github.com/liiiyiiixiii/create-world-harness) · [Create-World-skills](https://github.com/liiiyiiixiii/Create-World-skills) · [高墙之外](https://github.com/SSxs-wym/Beyond-The-Walls-) · [高墙之外试玩](https://www.liyixiong.cn/game/) · [Weeknote](https://github.com/liiiyiiixiii/weeknote)
-
 </div>
 
 ---
